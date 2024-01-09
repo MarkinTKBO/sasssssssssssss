@@ -1,5 +1,5 @@
 .logo {
-    background-image: url("/img/Chairs.png");
+    background-image: url("../img/Chairs.png");
     width: 230px;
     height: 38px;
     background-size: contain;
