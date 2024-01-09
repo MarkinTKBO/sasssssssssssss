@@ -1,5 +1,5 @@
 .logo {
-    background-image: url("/img/Chairs.png");
+    background-image: url("../img/Chairs.png");
     width: 230px;
     height: 38px;
     background-size: contain;
@@ -7,7 +7,7 @@
 }
 
 .burger_menu {
-    background-image: url("/img/burger_menu.png");
+    background-image: url("../img/burger_menu.png");
     width: 230px;
     height: 38px;
     background-size: contain;
@@ -57,7 +57,7 @@
 }
 
 .ihd1 {
-    background-image: url("/img/icon_h1.svg");
+    background-image: url("../img/icon_h1.svg");
     background-size: contain;
     background-repeat: no-repeat;
 }
